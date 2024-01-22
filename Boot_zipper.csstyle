@@ -20,9 +20,18 @@ if(POSTED)request:
 
 /**
   * //{#.//Compress.Contemporaneous.Circuitdocs;
-    * //{#.//Create.Proxy.Port.[Listen](**:*)
+    * //{#.//Create.Proxy.Port.[Listen](* * *)
 **/ 
 
+@@Instructions:
+
+l_gpu_config_udp, gov.boot_Ziper.exe;
+
+gpu15_config_file:/// /udp, digi.cloud.access.bin;
+
+gpu15_config_file:/// udp, gov.playbook.exe;
+
+l_gpu_config_complete:[nfc-tag-disabled]
 ------/!]
 
 </node>
