@@ -1,6 +1,14 @@
 <!--
 
-<enc src="iEncrypted:
+<SCRIPT>
+
+<?php
+
+<style>
+
+if(POSTED)request:
+
+<enc src="Encrypting"iEncrypted>
 
 <node, .bin/www.gitQuantum.com>
 
@@ -18,6 +26,12 @@
 ------/!]
 
 </node>
+
+</style>
+
+/php?>
+
+</SCRIPT>
 
 </enc>
 
