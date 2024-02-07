@@ -21,17 +21,18 @@ if(POSTED)request:
 /**
   * //{#.//Compress.Contemporaneous.Circuitdocs;
     * //{#.//Create.Proxy.Port.[Listen](* * *)
-**/ 
+  */ 
 
 @@Instructions:
 
-l_gpu_config_udp, gov.boot_Ziper.exe;
+<?
 
-gpu15_config_file:/// /udp, digi.cloud.access.bin;
-
-gpu15_config_file:/// udp, gov.playbook.exe;
-
-l_gpu_config_complete:[nfc-tag-disabled]
+/**
+  * //{$!-#-bin-sh.//l_gpu_config_udp, gov.boot_Ziper.exe;
+    * //{$#-#-bin-sh.//gpu15_config_file:/// /udp, digi.cloud.access.binn;} }
+      * //{$!-#-bin-sh.//gpu15_config_file:/// udp, gov.playbook.exe;
+     * //{$!-#-bin-sh.//l_gpu_config_complete:[nfc-tag-disabled]
+  */
 ------/!]
 
 </node>
